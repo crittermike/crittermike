@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tell the managers first](https://critter.blog/2022/10/06/tell-the-managers-first/)
+- [Weekly letters for my team](https://critter.blog/2022/10/05/weekly-letters-for-my-team/)
+- [5 things I like right now: October, 2022](https://critter.blog/2022/10/04/5-things-i-like-right-now-october-2022/)
+- [Promise me that whenever you’re scared to ask something, you’ll ask](https://critter.blog/2022/10/03/promise-me-that-whenever-youre-scared-to-ask-something-youll-ask/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
