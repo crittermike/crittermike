@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">(Some people call me Critter)</h3>
 
-<p align="left"> <a href="https://twitter.com/mcrittenden" target="blank"><img src="https://img.shields.io/twitter/follow/mcrittenden?logo=twitter&style=for-the-badge" alt="mcrittenden" /></a> </p>
-
-- 🔭 I’m currently working on [Dependabot at GitHub](https://github.com/features/security).
+- 🔭 I’m working on [Dependabot at GitHub](https://github.com/features/security).
 
 - 📝 I write daily blog posts at [critter.blog](https://critter.blog).
 
@@ -11,7 +9,7 @@
 
 - 📫 Reach me at **mikecrittenden@gmail.com**.
 
-### Blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Tell the managers first](https://critter.blog/2022/10/06/tell-the-managers-first/)
 - [Weekly letters for my team](https://critter.blog/2022/10/05/weekly-letters-for-my-team/)
