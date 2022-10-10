@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 12 Week Year: 2022 round 3](https://critter.blog/2022/10/10/the-12-week-year-2022-round-3/)
 - [What meeting do you dread the most?](https://critter.blog/2022/10/07/what-meeting-do-you-dread-the-most/)
 - [Tell the managers first](https://critter.blog/2022/10/06/tell-the-managers-first/)
 - [Weekly letters for my team](https://critter.blog/2022/10/05/weekly-letters-for-my-team/)
-- [5 things I like right now: October, 2022](https://critter.blog/2022/10/04/5-things-i-like-right-now-october-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
