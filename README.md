@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make a playlist to keep a routine](https://critter.blog/2022/10/12/make-a-playlist-to-keep-a-routine/)
 - [No 0% days](https://critter.blog/2022/10/11/no-0-days/)
 - [The 12 Week Year: 2022 round 3](https://critter.blog/2022/10/10/the-12-week-year-2022-round-3/)
 - [What meeting do you dread the most?](https://critter.blog/2022/10/07/what-meeting-do-you-dread-the-most/)
-- [Tell the managers first](https://critter.blog/2022/10/06/tell-the-managers-first/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
