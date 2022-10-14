@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Action as preparation](https://critter.blog/2022/10/14/action-as-preparation/)
 - [Joy in feeling tired](https://critter.blog/2022/10/13/joy-in-feeling-tired/)
 - [Make a playlist to keep a routine](https://critter.blog/2022/10/12/make-a-playlist-to-keep-a-routine/)
 - [No 0% days](https://critter.blog/2022/10/11/no-0-days/)
-- [The 12 Week Year: 2022 round 3](https://critter.blog/2022/10/10/the-12-week-year-2022-round-3/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
