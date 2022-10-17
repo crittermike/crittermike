@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“How could we make things WORSE?”](https://critter.blog/2022/10/17/how-could-we-make-things-worse/)
 - [Action as preparation](https://critter.blog/2022/10/14/action-as-preparation/)
 - [Joy in feeling tired](https://critter.blog/2022/10/13/joy-in-feeling-tired/)
 - [Make a playlist to keep a routine](https://critter.blog/2022/10/12/make-a-playlist-to-keep-a-routine/)
-- [No 0% days](https://critter.blog/2022/10/11/no-0-days/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
