@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Step 1: Tell your team how you’re feeling](https://critter.blog/2022/10/19/step-1-tell-your-team-how-youre-feeling/)
 - [The value of notes is in writing them, not reading them](https://critter.blog/2022/10/18/the-value-of-notes-is-in-writing-them-not-reading-them/)
 - [“How could we make things WORSE?”](https://critter.blog/2022/10/17/how-could-we-make-things-worse/)
 - [Action as preparation](https://critter.blog/2022/10/14/action-as-preparation/)
-- [Joy in feeling tired](https://critter.blog/2022/10/13/joy-in-feeling-tired/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
