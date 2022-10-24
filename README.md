@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Contributors, not attendees](https://critter.blog/2022/10/24/contributors-not-attendees/)
 - [Paraphrase, paraphrase, paraphrase](https://critter.blog/2022/10/21/paraphrase-paraphrase-paraphrase/)
 - [The Rude Q&amp;A](https://critter.blog/2022/10/20/the-rude-qa/)
 - [Step 1: Tell your team how you’re feeling](https://critter.blog/2022/10/19/step-1-tell-your-team-how-youre-feeling/)
-- [The value of notes is in writing them, not reading them](https://critter.blog/2022/10/18/the-value-of-notes-is-in-writing-them-not-reading-them/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
