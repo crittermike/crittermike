@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [If the performance cycle ended now, your rating would be…](https://critter.blog/2022/10/25/if-the-performance-cycle-ended-now-your-rating-would-be/)
 - [Contributors, not attendees](https://critter.blog/2022/10/24/contributors-not-attendees/)
 - [Paraphrase, paraphrase, paraphrase](https://critter.blog/2022/10/21/paraphrase-paraphrase-paraphrase/)
 - [The Rude Q&amp;A](https://critter.blog/2022/10/20/the-rude-qa/)
-- [Step 1: Tell your team how you’re feeling](https://critter.blog/2022/10/19/step-1-tell-your-team-how-youre-feeling/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
