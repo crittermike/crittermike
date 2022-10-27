@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Be a squeakier wheel &lpar;to your manager&rpar;](https://critter.blog/2022/10/27/be-a-squeakier-wheel-to-your-manager/)
 - [Have you considered not caring as much?](https://critter.blog/2022/10/26/have-you-considered-not-caring-as-much/)
 - [If the performance cycle ended now, your rating would be…](https://critter.blog/2022/10/25/if-the-performance-cycle-ended-now-your-rating-would-be/)
 - [Contributors, not attendees](https://critter.blog/2022/10/24/contributors-not-attendees/)
-- [Paraphrase, paraphrase, paraphrase](https://critter.blog/2022/10/21/paraphrase-paraphrase-paraphrase/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
