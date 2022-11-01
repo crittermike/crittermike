@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 things I like right now: November, 2022](https://critter.blog/2022/11/01/5-things-i-like-right-now-november-2022/)
 - [Reminiscing and engineering managers](https://critter.blog/2022/10/31/reminiscing-and-engineering-managers/)
 - [Something to be enthusiastic about](https://critter.blog/2022/10/28/something-to-be-enthusiastic-about/)
 - [Be a squeakier wheel &lpar;to your manager&rpar;](https://critter.blog/2022/10/27/be-a-squeakier-wheel-to-your-manager/)
-- [Have you considered not caring as much?](https://critter.blog/2022/10/26/have-you-considered-not-caring-as-much/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
