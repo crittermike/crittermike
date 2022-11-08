@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The boundaries of your environment](https://critter.blog/2022/11/08/the-boundaries-of-your-environment/)
 - [Drop some thankless balls](https://critter.blog/2022/11/07/drop-some-thankless-balls/)
 - [Worthwhile peer feedback questions](https://critter.blog/2022/11/04/worthwhile-peer-feedback-questions/)
 - [Experts rating emojis: a collection](https://critter.blog/2022/11/03/experts-rating-emojis-a-collection/)
-- [How to be physically healthy](https://critter.blog/2022/11/02/how-to-be-physically-healthy/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
