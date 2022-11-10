@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Social facilitation &lpar;as a service&rpar;](https://critter.blog/2022/11/10/social-facilitation-as-a-service/)
 - [My management philosophy, take 2](https://critter.blog/2022/11/09/my-management-philosophy-take-2/)
 - [The boundaries of your environment](https://critter.blog/2022/11/08/the-boundaries-of-your-environment/)
 - [Drop some thankless balls](https://critter.blog/2022/11/07/drop-some-thankless-balls/)
-- [Worthwhile peer feedback questions](https://critter.blog/2022/11/04/worthwhile-peer-feedback-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
