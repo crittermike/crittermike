@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why all these tech layoffs?](https://critter.blog/2022/11/16/why-all-these-tech-layoffs/)
 - [My wife’s Halloween makeup: 2022 edition](https://critter.blog/2022/11/15/my-wifes-halloween-makeup-2022-edition/)
 - [If you feel like something’s wrong, you’re probably right](https://critter.blog/2022/11/14/if-you-feel-like-somethings-wrong-youre-probably-right/)
 - [Well isn’t that NEAT](https://critter.blog/2022/11/11/well-isnt-that-neat/)
-- [Social facilitation &lpar;as a service&rpar;](https://critter.blog/2022/11/10/social-facilitation-as-a-service/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
