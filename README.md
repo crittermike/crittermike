@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Just because everyone knows it doesn’t mean it isn’t worth saying](https://critter.blog/2022/11/17/just-because-everyone-knows-it-doesnt-mean-it-isnt-worth-saying/)
 - [Why all these tech layoffs?](https://critter.blog/2022/11/16/why-all-these-tech-layoffs/)
 - [My wife’s Halloween makeup: 2022 edition](https://critter.blog/2022/11/15/my-wifes-halloween-makeup-2022-edition/)
 - [If you feel like something’s wrong, you’re probably right](https://critter.blog/2022/11/14/if-you-feel-like-somethings-wrong-youre-probably-right/)
-- [Well isn’t that NEAT](https://critter.blog/2022/11/11/well-isnt-that-neat/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
