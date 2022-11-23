@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Eat more fiber](https://critter.blog/2022/11/23/eat-more-fiber/)
 - [Give structured fun a chance](https://critter.blog/2022/11/22/give-structured-fun-a-chance/)
 - [Talk, type, read, review](https://critter.blog/2022/11/21/talk-type-read-review/)
 - [Turn the problem around](https://critter.blog/2022/11/18/turn-the-problem-around/)
-- [Just because everyone knows it doesn’t mean it isn’t worth saying](https://critter.blog/2022/11/17/just-because-everyone-knows-it-doesnt-mean-it-isnt-worth-saying/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
