@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Normalize the boring, useful gift](https://critter.blog/2022/11/24/normalize-the-boring-useful-gift/)
 - [Eat more fiber](https://critter.blog/2022/11/23/eat-more-fiber/)
 - [Give structured fun a chance](https://critter.blog/2022/11/22/give-structured-fun-a-chance/)
 - [Talk, type, read, review](https://critter.blog/2022/11/21/talk-type-read-review/)
-- [Turn the problem around](https://critter.blog/2022/11/18/turn-the-problem-around/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
