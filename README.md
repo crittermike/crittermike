@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [No, running does not wear out your joints](https://critter.blog/2022/11/28/no-running-does-not-wear-out-your-joints/)
 - [Click and drag to rearrange Zoom participants](https://critter.blog/2022/11/25/click-and-drag-to-rearrange-zoom-participants/)
 - [Normalize the boring, useful gift](https://critter.blog/2022/11/24/normalize-the-boring-useful-gift/)
 - [Eat more fiber](https://critter.blog/2022/11/23/eat-more-fiber/)
-- [Give structured fun a chance](https://critter.blog/2022/11/22/give-structured-fun-a-chance/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
