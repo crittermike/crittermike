@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s everyone’s “parting a-ha”?](https://critter.blog/2022/12/01/whats-everyones-parting-a-ha/)
 - [Nice things should be repeated](https://critter.blog/2022/11/30/nice-things-should-be-repeated/)
 - [Talk to me when the novelty wears off](https://critter.blog/2022/11/29/talk-to-me-when-the-novelty-wears-off/)
 - [No, running does not wear out your joints](https://critter.blog/2022/11/28/no-running-does-not-wear-out-your-joints/)
-- [Click and drag to rearrange Zoom participants](https://critter.blog/2022/11/25/click-and-drag-to-rearrange-zoom-participants/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
