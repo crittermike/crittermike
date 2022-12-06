@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Why We Sleep” considered harmful?](https://critter.blog/2022/12/06/why-we-sleep-considered-harmful/)
 - [“What are you hoping to get out of this meeting?”](https://critter.blog/2022/12/05/what-are-you-hoping-to-get-out-of-this-meeting/)
 - [“It only takes 5 minutes to break the cycle”](https://critter.blog/2022/12/02/it-only-takes-5-minutes-to-break-the-cycle/)
 - [What’s everyone’s “parting a-ha”?](https://critter.blog/2022/12/01/whats-everyones-parting-a-ha/)
-- [Nice things should be repeated](https://critter.blog/2022/11/30/nice-things-should-be-repeated/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
