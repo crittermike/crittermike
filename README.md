@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [If we are not building relationships…](https://critter.blog/2022/12/09/if-we-are-not-building-relationships/)
 - [Relationship overhead of large teams](https://critter.blog/2022/12/08/relationship-overhead-of-large-teams/)
 - [ChatGPT uses for lazy managers](https://critter.blog/2022/12/07/chatgpt-uses-for-lazy-managers/)
 - [“Why We Sleep” considered harmful?](https://critter.blog/2022/12/06/why-we-sleep-considered-harmful/)
-- [“What are you hoping to get out of this meeting?”](https://critter.blog/2022/12/05/what-are-you-hoping-to-get-out-of-this-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
