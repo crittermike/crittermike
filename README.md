@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop saying “bi-weekly”](https://critter.blog/2022/12/13/stop-saying-bi-weekly/)
 - [On maximizing leverage](https://critter.blog/2022/12/12/on-maximizing-leverage/)
 - [If we are not building relationships…](https://critter.blog/2022/12/09/if-we-are-not-building-relationships/)
 - [Relationship overhead of large teams](https://critter.blog/2022/12/08/relationship-overhead-of-large-teams/)
-- [ChatGPT uses for lazy managers](https://critter.blog/2022/12/07/chatgpt-uses-for-lazy-managers/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
