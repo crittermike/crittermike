@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five random work conversation starters](https://critter.blog/2022/12/16/five-random-work-conversation-starters/)
 - [Appreciate feeling healthy](https://critter.blog/2022/12/15/appreciate-feeling-healthy/)
 - [Regular 1-1 question: “What gave you anxiety in the past week?”](https://critter.blog/2022/12/14/regular-1-1-question-what-gave-you-anxiety-in-the-past-week/)
 - [Stop saying “bi-weekly”](https://critter.blog/2022/12/13/stop-saying-bi-weekly/)
-- [On maximizing leverage](https://critter.blog/2022/12/12/on-maximizing-leverage/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
