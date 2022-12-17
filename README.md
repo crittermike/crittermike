@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mike
 ### (Some people call me Critter)
 
-🔭 I’m working on [Dependabot at GitHub](https://github.com/features/security).
+:octocat: I’m working on [Dependabot at GitHub](https://github.com/features/security).
 
 📝 I write daily blog posts at [critter.blog](https://critter.blog).
 
