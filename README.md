@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">(Some people call me Critter)</h3>
+# Hi 👋, I'm Mike
+### (Some people call me Critter)
 
-- 🔭 I’m working on [Dependabot at GitHub](https://github.com/features/security).
+🔭 I’m working on [Dependabot at GitHub](https://github.com/features/security).
 
-- 📝 I write daily blog posts at [critter.blog](https://critter.blog).
+📝 I write daily blog posts at [critter.blog](https://critter.blog).
 
-- 💬 Ask me about **management, writing, team jelling, and trail running**.
+💬 Ask me about **management, writing, team jelling, and trail running**.
 
-- 📫 Reach me at **mikecrittenden@gmail.com**.
+📫 Reach me at **mikecrittenden@gmail.com**.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
