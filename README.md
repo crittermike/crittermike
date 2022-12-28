@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I look good in green](https://critter.blog/2022/12/27/i-look-good-in-green/)
 - [2022 annual review, kids edition](https://critter.blog/2022/12/26/2022-annual-review-kids-edition/)
 - [No, the average American home probably doesn’t contain 300,000 items](https://critter.blog/2022/12/23/no-the-average-american-home-probably-doesnt-contain-300000-items/)
 - [Toxic transparency](https://critter.blog/2022/12/22/toxic-transparency/)
 - [My favorite Yogi Berra quotes](https://critter.blog/2022/12/21/my-favorite-yogi-berra-quotes/)
-- [“Your calendar is a better measure of success than your bank account.”](https://critter.blog/2022/12/20/your-calendar-is-a-better-measure-of-success-than-your-bank-account/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
