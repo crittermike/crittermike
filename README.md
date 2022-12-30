@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five things I like right now: January, 2022](https://critter.blog/2022/12/30/five-things-i-like-right-now-january-2022-2/)
 - [2023: The Year of Connection](https://critter.blog/2022/12/29/2023-the-year-of-connection/)
 - [2022 in review](https://critter.blog/2022/12/28/2022-in-review/)
 - [I look good in green](https://critter.blog/2022/12/27/i-look-good-in-green/)
 - [2022 annual review, kids edition](https://critter.blog/2022/12/26/2022-annual-review-kids-edition/)
-- [No, the average American home probably doesn’t contain 300,000 items](https://critter.blog/2022/12/23/no-the-average-american-home-probably-doesnt-contain-300000-items/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
