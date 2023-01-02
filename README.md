@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Reminders sucks at subtasks](https://critter.blog/2023/01/02/apple-reminders-sucks-at-subtasks/)
 - [Weekly journal: 2023-01-01](https://critter.blog/2023/01/01/weekly-journal-2023-01-01/)
 - [Five things I like right now: January, 2022](https://critter.blog/2022/12/30/five-things-i-like-right-now-january-2022-2/)
 - [2023: The Year of Connection](https://critter.blog/2022/12/29/2023-the-year-of-connection/)
 - [2022 in review](https://critter.blog/2022/12/28/2022-in-review/)
-- [I look good in green](https://critter.blog/2022/12/27/i-look-good-in-green/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
