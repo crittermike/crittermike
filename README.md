@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build teams that don’t have ice to break](https://critter.blog/2023/01/05/build-teams-that-dont-have-ice-to-break/)
 - [Let me write, I mean, think about it](https://critter.blog/2023/01/04/let-me-write-i-mean-think-about-it/)
 - [What are you subtracting in 2023?](https://critter.blog/2023/01/03/what-are-you-subtracting-in-2023/)
 - [Apple Reminders sucks at subtasks](https://critter.blog/2023/01/02/apple-reminders-sucks-at-subtasks/)
 - [Weekly journal: 2023-01-01](https://critter.blog/2023/01/01/weekly-journal-2023-01-01/)
-- [Five things I like right now: January, 2022](https://critter.blog/2022/12/30/five-things-i-like-right-now-january-2022-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
