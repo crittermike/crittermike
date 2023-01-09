@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Who’s reading those meeting notes?](https://critter.blog/2023/01/09/whos-reading-those-meeting-notes/)
 - [Weekly journal: 2023-01-08](https://critter.blog/2023/01/08/weekly-journal-2023-01-08/)
 - [People can tell you’re multitasking on meetings](https://critter.blog/2023/01/06/people-can-tell-youre-multitasking-on-meetings/)
 - [Build teams that don’t have ice to break](https://critter.blog/2023/01/05/build-teams-that-dont-have-ice-to-break/)
 - [Let me write, I mean, think about it](https://critter.blog/2023/01/04/let-me-write-i-mean-think-about-it/)
-- [What are you subtracting in 2023?](https://critter.blog/2023/01/03/what-are-you-subtracting-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
