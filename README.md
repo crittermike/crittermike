@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DACI over RACI](https://critter.blog/2023/01/11/daci-over-raci/)
 - [The 12 Week Year: 2022 round 3 wrap up](https://critter.blog/2023/01/10/the-12-week-year-2022-round-3-wrap-up/)
 - [Who’s reading those meeting notes?](https://critter.blog/2023/01/09/whos-reading-those-meeting-notes/)
 - [Weekly journal: 2023-01-08](https://critter.blog/2023/01/08/weekly-journal-2023-01-08/)
 - [People can tell you’re multitasking on meetings](https://critter.blog/2023/01/06/people-can-tell-youre-multitasking-on-meetings/)
-- [Build teams that don’t have ice to break](https://critter.blog/2023/01/05/build-teams-that-dont-have-ice-to-break/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
