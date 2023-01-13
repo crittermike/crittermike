@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT uses for lazy parents](https://critter.blog/2023/01/13/chatgpt-uses-for-lazy-parents/)
 - [If you can’t stop it, change it](https://critter.blog/2023/01/12/if-you-cant-stop-it-change-it/)
 - [DACI over RACI](https://critter.blog/2023/01/11/daci-over-raci/)
 - [The 12 Week Year: 2022 round 3 wrap up](https://critter.blog/2023/01/10/the-12-week-year-2022-round-3-wrap-up/)
 - [Who’s reading those meeting notes?](https://critter.blog/2023/01/09/whos-reading-those-meeting-notes/)
-- [Weekly journal: 2023-01-08](https://critter.blog/2023/01/08/weekly-journal-2023-01-08/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
