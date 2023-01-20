@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything is a gift](https://critter.blog/2023/01/20/everything-is-a-gift/)
 - [Create a rotating thank you list](https://critter.blog/2023/01/19/create-a-rotating-thank-you-list/)
 - [Why debate online, answered](https://critter.blog/2023/01/18/why-debate-online-answered/)
 - [Why debate online?](https://critter.blog/2023/01/17/why-debate-online/)
 - [“Firing people is so hard you’ll invent excuses not to do it.”](https://critter.blog/2023/01/16/firing-people-is-so-hard-youll-invent-excuses-not-to-do-it/)
-- [Weekly journal: 2023-01-15](https://critter.blog/2023/01/15/weekly-journal-2023-01-15/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
