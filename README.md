@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Can’t let it go to waste!” Oh yes I can.](https://critter.blog/2023/01/23/cant-let-it-go-to-waste-oh-yes-i-can/)
 - [Weekly journal: 2023-01-22](https://critter.blog/2023/01/22/weekly-journal-2023-01-22/)
 - [Everything is a gift](https://critter.blog/2023/01/20/everything-is-a-gift/)
 - [Create a rotating thank you list](https://critter.blog/2023/01/19/create-a-rotating-thank-you-list/)
 - [Why debate online, answered](https://critter.blog/2023/01/18/why-debate-online-answered/)
-- [Why debate online?](https://critter.blog/2023/01/17/why-debate-online/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
