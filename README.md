@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leaders: speak last](https://critter.blog/2023/01/25/leaders-speak-last/)
 - [Spend money on what separates you from the ground](https://critter.blog/2023/01/24/spend-money-on-what-separates-you-from-the-ground/)
 - [“Can’t let it go to waste!” Oh yes I can.](https://critter.blog/2023/01/23/cant-let-it-go-to-waste-oh-yes-i-can/)
 - [Weekly journal: 2023-01-22](https://critter.blog/2023/01/22/weekly-journal-2023-01-22/)
 - [Everything is a gift](https://critter.blog/2023/01/20/everything-is-a-gift/)
-- [Create a rotating thank you list](https://critter.blog/2023/01/19/create-a-rotating-thank-you-list/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
