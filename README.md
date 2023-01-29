@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly journal: 2023-01-29](https://critter.blog/2023/01/28/weekly-journal-2023-01-29/)
 - [Try the wacky experiment first](https://critter.blog/2023/01/27/try-the-wacky-experiment-first/)
 - [Job search advice for laid off engineers](https://critter.blog/2023/01/26/job-search-advice-for-laid-off-engineers/)
 - [Leaders: speak last](https://critter.blog/2023/01/25/leaders-speak-last/)
 - [Spend money on what separates you from the ground](https://critter.blog/2023/01/24/spend-money-on-what-separates-you-from-the-ground/)
-- [“Can’t let it go to waste!” Oh yes I can.](https://critter.blog/2023/01/23/cant-let-it-go-to-waste-oh-yes-i-can/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
