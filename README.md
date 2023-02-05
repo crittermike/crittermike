@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly journal: 2023-02-05](https://critter.blog/2023/02/05/weekly-journal-2023-02-05/)
 - [Half of your perceived life is over by age 18](https://critter.blog/2023/02/03/half-of-your-perceived-life-is-over-by-age-18/)
 - [Why tell people “let me write about this and get back to you”?](https://critter.blog/2023/02/02/why-tell-people-let-me-write-about-this-and-get-back-to-you/)
 - [Five things I like right now: February, 2022](https://critter.blog/2023/02/01/five-things-i-like-right-now-february-2022-2/)
 - [What would this look like if it was an adventure?](https://critter.blog/2023/01/31/what-would-this-look-like-if-it-was-an-adventure/)
-- [Don’t expect too much from your job](https://critter.blog/2023/01/30/dont-expect-too-much-from-your-job/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
