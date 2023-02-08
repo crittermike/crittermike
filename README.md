@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [If you’re not having fun then just leave](https://critter.blog/2023/02/08/if-youre-not-having-fun-then-just-leave/)
 - [Luck surface area, visualized](https://critter.blog/2023/02/07/luck-surface-area-visualized/)
 - [Content is time travel](https://critter.blog/2023/02/06/content-is-time-travel/)
 - [Weekly journal: 2023-02-05](https://critter.blog/2023/02/05/weekly-journal-2023-02-05/)
 - [Half of your perceived life is over by age 18](https://critter.blog/2023/02/03/half-of-your-perceived-life-is-over-by-age-18/)
-- [Why tell people “let me write about this and get back to you”?](https://critter.blog/2023/02/02/why-tell-people-let-me-write-about-this-and-get-back-to-you/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
