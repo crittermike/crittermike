@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly journal: 2022-02-12](https://critter.blog/2023/02/12/weekly-journal-2022-02-12/)
 - [Clean up your Downloads folder with cron](https://critter.blog/2023/02/10/clean-up-your-downloads-folder-with-cron/)
 - [Scrum is still a good default](https://critter.blog/2023/02/09/scrum-is-still-a-good-default/)
 - [If you’re not having fun then just leave](https://critter.blog/2023/02/08/if-youre-not-having-fun-then-just-leave/)
 - [Luck surface area, visualized](https://critter.blog/2023/02/07/luck-surface-area-visualized/)
-- [Content is time travel](https://critter.blog/2023/02/06/content-is-time-travel/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
