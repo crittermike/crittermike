@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I commit to expressing my full magnificence!](https://critter.blog/2023/02/14/i-commit-to-expressing-my-full-magnificence/)
 - [Where are your beans going?](https://critter.blog/2023/02/13/where-are-your-beans-going/)
 - [Weekly journal: 2022-02-12](https://critter.blog/2023/02/12/weekly-journal-2022-02-12/)
 - [Clean up your Downloads folder with cron](https://critter.blog/2023/02/10/clean-up-your-downloads-folder-with-cron/)
 - [Scrum is still a good default](https://critter.blog/2023/02/09/scrum-is-still-a-good-default/)
-- [If you’re not having fun then just leave](https://critter.blog/2023/02/08/if-youre-not-having-fun-then-just-leave/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
