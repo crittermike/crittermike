@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly journal: 2023-02-19](https://critter.blog/2023/02/19/weekly-journal-2023-02-19/)
 - [Consume a little less, create a little more](https://critter.blog/2023/02/17/consume-a-little-less-create-a-little-more/)
 - [Most mandatory things aren’t mandatory](https://critter.blog/2023/02/16/most-mandatory-things-arent-mandatory/)
 - [What is waste?](https://critter.blog/2023/02/15/what-is-waste/)
 - [I commit to expressing my full magnificence!](https://critter.blog/2023/02/14/i-commit-to-expressing-my-full-magnificence/)
-- [Where are your beans going?](https://critter.blog/2023/02/13/where-are-your-beans-going/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
