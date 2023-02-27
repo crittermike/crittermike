@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The power of four](https://critter.blog/2023/02/27/the-power-of-four/)
 - [Carry a flosser around with you](https://critter.blog/2023/02/24/carry-a-flosser-around-with-you/)
 - [The five stages of team focus](https://critter.blog/2023/02/23/the-five-stages-of-team-focus/)
 - [“Bad news isn’t wine. It doesn’t improve with age.”](https://critter.blog/2023/02/22/bad-news-isnt-wine-it-doesnt-improve-with-age/)
 - [What do you want from a mentor?](https://critter.blog/2023/02/21/what-do-you-want-from-a-mentor/)
-- [Dear managers, your company is “we” &lpar;not “they” or “it”&rpar;](https://critter.blog/2023/02/20/dear-managers-your-company-is-we-not-they-or-it/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
