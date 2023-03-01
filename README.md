@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five things I like right now: March, 2023](https://critter.blog/2023/03/01/five-things-i-like-right-now-march-2023/)
 - [What is a team?](https://critter.blog/2023/02/28/what-is-a-team/)
 - [The power of four](https://critter.blog/2023/02/27/the-power-of-four/)
 - [Carry a flosser around with you](https://critter.blog/2023/02/24/carry-a-flosser-around-with-you/)
 - [The five stages of team focus](https://critter.blog/2023/02/23/the-five-stages-of-team-focus/)
-- [“Bad news isn’t wine. It doesn’t improve with age.”](https://critter.blog/2023/02/22/bad-news-isnt-wine-it-doesnt-improve-with-age/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
