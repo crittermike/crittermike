@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly journal: 2023-03-05](https://critter.blog/2023/03/05/weekly-journal-2023-03-05/)
 - [My core values, round two](https://critter.blog/2023/03/03/my-core-values-round-two/)
 - [Paraphrase the conflict](https://critter.blog/2023/03/02/paraphrase-the-conflict/)
 - [Five things I like right now: March, 2023](https://critter.blog/2023/03/01/five-things-i-like-right-now-march-2023/)
 - [What is a team?](https://critter.blog/2023/02/28/what-is-a-team/)
-- [The power of four](https://critter.blog/2023/02/27/the-power-of-four/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
