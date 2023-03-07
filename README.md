@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Good life advice is boring](https://critter.blog/2023/03/07/good-life-advice-is-boring/)
 - [The permission to stop trying for a while](https://critter.blog/2023/03/06/the-permission-to-stop-trying-for-a-while/)
 - [Weekly journal: 2023-03-05](https://critter.blog/2023/03/05/weekly-journal-2023-03-05/)
 - [My core values, round two](https://critter.blog/2023/03/03/my-core-values-round-two/)
 - [Paraphrase the conflict](https://critter.blog/2023/03/02/paraphrase-the-conflict/)
-- [Five things I like right now: March, 2023](https://critter.blog/2023/03/01/five-things-i-like-right-now-march-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
