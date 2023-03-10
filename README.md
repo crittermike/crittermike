@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [All things must yield to the impulse of the water in time](https://critter.blog/2023/03/10/all-things-must-yield-to-the-impulse-of-the-water-in-time/)
 - [ChatGPT uses for lazy travelers](https://critter.blog/2023/03/09/chatgpt-uses-for-lazy-travelers/)
 - [My identity grid](https://critter.blog/2023/03/08/my-identity-grid/)
 - [Good life advice is boring](https://critter.blog/2023/03/07/good-life-advice-is-boring/)
 - [The permission to stop trying for a while](https://critter.blog/2023/03/06/the-permission-to-stop-trying-for-a-while/)
-- [Weekly journal: 2023-03-05](https://critter.blog/2023/03/05/weekly-journal-2023-03-05/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
