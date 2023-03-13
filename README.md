@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An environment in which success becomes inevitable](https://critter.blog/2023/03/13/an-environment-in-which-success-becomes-inevitable/)
 - [Weekly journal: 2023-03-12](https://critter.blog/2023/03/12/weekly-journal-2023-03-12/)
 - [All things must yield to the impulse of the water in time](https://critter.blog/2023/03/10/all-things-must-yield-to-the-impulse-of-the-water-in-time/)
 - [ChatGPT uses for lazy travelers](https://critter.blog/2023/03/09/chatgpt-uses-for-lazy-travelers/)
 - [My identity grid](https://critter.blog/2023/03/08/my-identity-grid/)
-- [Good life advice is boring](https://critter.blog/2023/03/07/good-life-advice-is-boring/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
