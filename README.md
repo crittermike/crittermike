@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Basecamp’s two-person teams](https://critter.blog/2023/03/17/basecamps-two-person-teams/)
 - [Bandmates vs. session musicians](https://critter.blog/2023/03/16/bandmates-vs-session-musicians/)
 - [Building safety with TERA](https://critter.blog/2023/03/15/building-safety-with-tera/)
 - [What stretching does and doesn’t do](https://critter.blog/2023/03/14/what-stretching-does-and-doesnt-do/)
 - [An environment in which success becomes inevitable](https://critter.blog/2023/03/13/an-environment-in-which-success-becomes-inevitable/)
-- [Weekly journal: 2023-03-12](https://critter.blog/2023/03/12/weekly-journal-2023-03-12/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
