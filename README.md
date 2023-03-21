@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A field guide for sabotaging meetings](https://critter.blog/2023/03/21/a-field-guide-for-sabotaging-meetings/)
 - [Death to cabinets and drawers!](https://critter.blog/2023/03/20/death-to-cabinets-and-drawers/)
 - [Basecamp’s two-person teams](https://critter.blog/2023/03/17/basecamps-two-person-teams/)
 - [Bandmates vs. session musicians](https://critter.blog/2023/03/16/bandmates-vs-session-musicians/)
 - [Building safety with TERA](https://critter.blog/2023/03/15/building-safety-with-tera/)
-- [What stretching does and doesn’t do](https://critter.blog/2023/03/14/what-stretching-does-and-doesnt-do/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
