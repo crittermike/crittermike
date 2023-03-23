@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My most popular post of the past year is so dumb](https://critter.blog/2023/03/23/my-most-popular-post-of-the-past-year-is-so-dumb/)
 - [The best stuff, the worst stuff](https://critter.blog/2023/03/22/the-best-stuff-the-worst-stuff/)
 - [A field guide for sabotaging meetings](https://critter.blog/2023/03/21/a-field-guide-for-sabotaging-meetings/)
 - [Death to cabinets and drawers!](https://critter.blog/2023/03/20/death-to-cabinets-and-drawers/)
 - [Basecamp’s two-person teams](https://critter.blog/2023/03/17/basecamps-two-person-teams/)
-- [Bandmates vs. session musicians](https://critter.blog/2023/03/16/bandmates-vs-session-musicians/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
