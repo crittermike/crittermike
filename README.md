@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OKR scoring is secondary to retrospective](https://critter.blog/2023/03/29/okr-scoring-is-secondary-to-retrospective/)
 - [Invite the “yes” &lpar;not the “no”&rpar;](https://critter.blog/2023/03/28/invite-the-yes-not-the-no/)
 - [Take pride in skipping meetings](https://critter.blog/2023/03/27/take-pride-in-skipping-meetings/)
 - [That which can be destroyed by the truth, should be](https://critter.blog/2023/03/24/that-which-can-be-destroyed-by-the-truth-should-be/)
 - [My most popular post of the past year is so dumb](https://critter.blog/2023/03/23/my-most-popular-post-of-the-past-year-is-so-dumb/)
-- [The best stuff, the worst stuff](https://critter.blog/2023/03/22/the-best-stuff-the-worst-stuff/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
