@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beware issues that are born in “Doing”](https://critter.blog/2023/04/05/beware-issues-that-are-born-in-doing/)
 - [It’s OK to feel unhappy sometimes](https://critter.blog/2023/04/04/its-ok-to-feel-unhappy-sometimes/)
 - [The physiological sigh](https://critter.blog/2023/04/03/the-physiological-sigh/)
 - [Nobody knows anything](https://critter.blog/2023/03/31/nobody-knows-anything/)
 - [What do you feel ashamed of right now?](https://critter.blog/2023/03/30/what-do-you-feel-ashamed-of-right-now/)
-- [OKR scoring is secondary to retrospective](https://critter.blog/2023/03/29/okr-scoring-is-secondary-to-retrospective/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
