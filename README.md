@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop stopping at good stopping points](https://critter.blog/2023/04/10/stop-stopping-at-good-stopping-points/)
 - [Estimate relatively, not absolutely](https://critter.blog/2023/04/07/estimate-relatively-not-absolutely/)
 - [Pull methodology, flow time, and WIP limits: visualized](https://critter.blog/2023/04/06/pull-vs-push-visualized/)
 - [Beware issues that are born in “Doing”](https://critter.blog/2023/04/05/beware-issues-that-are-born-in-doing/)
 - [It’s OK to feel unhappy sometimes](https://critter.blog/2023/04/04/its-ok-to-feel-unhappy-sometimes/)
-- [The physiological sigh](https://critter.blog/2023/04/03/the-physiological-sigh/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
