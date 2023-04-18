@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9-slide presentations](https://critter.blog/2023/04/17/9-slide-presentations/)
 - [Use all of your vacation days](https://critter.blog/2023/04/14/use-all-of-your-vacation-days/)
 - [Finding shark teeth](https://critter.blog/2023/04/13/finding-shark-teeth/)
 - [All change is not growth](https://critter.blog/2023/04/12/all-change-is-not-growth/)
 - [What’s a low job happiness score?](https://critter.blog/2023/04/11/whats-a-low-job-happiness-score/)
-- [Stop stopping at good stopping points](https://critter.blog/2023/04/10/stop-stopping-at-good-stopping-points/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
