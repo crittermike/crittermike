@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exercise during listen-only meetings](https://critter.blog/2023/04/19/exercise-during-listen-only-meetings/)
 - [The crappy parts of engineering management](https://critter.blog/2023/04/18/the-crappy-parts-of-engineering-management/)
 - [9-slide presentations](https://critter.blog/2023/04/17/9-slide-presentations/)
 - [Use all of your vacation days](https://critter.blog/2023/04/14/use-all-of-your-vacation-days/)
 - [Finding shark teeth](https://critter.blog/2023/04/13/finding-shark-teeth/)
-- [All change is not growth](https://critter.blog/2023/04/12/all-change-is-not-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
