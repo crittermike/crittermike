@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The five minute rule for procrastination](https://critter.blog/2023/04/20/the-five-minute-rule-for-procrastination/)
 - [Exercise during listen-only meetings](https://critter.blog/2023/04/19/exercise-during-listen-only-meetings/)
 - [The crappy parts of engineering management](https://critter.blog/2023/04/18/the-crappy-parts-of-engineering-management/)
 - [9-slide presentations](https://critter.blog/2023/04/17/9-slide-presentations/)
 - [Use all of your vacation days](https://critter.blog/2023/04/14/use-all-of-your-vacation-days/)
-- [Finding shark teeth](https://critter.blog/2023/04/13/finding-shark-teeth/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
