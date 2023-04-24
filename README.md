@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is your tropism?](https://critter.blog/2023/04/24/what-is-your-tropism/)
 - [Don’t give a lot of notice when you quit](https://critter.blog/2023/04/21/dont-give-a-lot-of-notice-when-you-quit/)
 - [The five minute rule for procrastination](https://critter.blog/2023/04/20/the-five-minute-rule-for-procrastination/)
 - [Exercise during listen-only meetings](https://critter.blog/2023/04/19/exercise-during-listen-only-meetings/)
 - [The crappy parts of engineering management](https://critter.blog/2023/04/18/the-crappy-parts-of-engineering-management/)
-- [9-slide presentations](https://critter.blog/2023/04/17/9-slide-presentations/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
