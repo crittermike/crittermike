@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Death to purple prose](https://critter.blog/2023/05/09/death-to-purple-prose/)
 - [The “Shut Up And Write” meeting](https://critter.blog/2023/05/08/the-shut-up-and-write-meeting/)
 - [What I want in a job](https://critter.blog/2023/05/05/what-i-want-in-a-job/)
 - [“Whoever has the most fun, wins”](https://critter.blog/2023/05/04/whoever-has-the-most-fun-wins/)
 - [Parroting my blog posts](https://critter.blog/2023/05/03/parroting-my-blog-posts/)
-- [Five things I like right now: May, 2023](https://critter.blog/2023/05/02/five-things-i-like-right-now-may-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
