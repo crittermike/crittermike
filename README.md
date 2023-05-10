@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Poor man’s team bonding: recurring Slack threads](https://critter.blog/2023/05/10/poor-mans-team-bonding-recurring-slack-threads/)
 - [Death to purple prose](https://critter.blog/2023/05/09/death-to-purple-prose/)
 - [The “Shut Up And Write” meeting](https://critter.blog/2023/05/08/the-shut-up-and-write-meeting/)
 - [What I want in a job](https://critter.blog/2023/05/05/what-i-want-in-a-job/)
 - [“Whoever has the most fun, wins”](https://critter.blog/2023/05/04/whoever-has-the-most-fun-wins/)
-- [Parroting my blog posts](https://critter.blog/2023/05/03/parroting-my-blog-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
