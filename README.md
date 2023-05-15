@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [i.e. and e.g. are not interchangeable!](https://critter.blog/2023/05/15/i-e-and-e-g-are-not-interchangeable/)
 - [50 word personal README, version 2.0](https://critter.blog/2023/05/12/50-word-personal-readme-version-2-0/)
 - [I barely use Google anymore](https://critter.blog/2023/05/11/i-barely-use-google-anymore/)
 - [Poor man’s team bonding: recurring Slack threads](https://critter.blog/2023/05/10/poor-mans-team-bonding-recurring-slack-threads/)
 - [Death to purple prose](https://critter.blog/2023/05/09/death-to-purple-prose/)
-- [The “Shut Up And Write” meeting](https://critter.blog/2023/05/08/the-shut-up-and-write-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
