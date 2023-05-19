@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Types of running workouts](https://critter.blog/2023/05/19/types-of-running-workouts/)
 - [Whiten your teeth](https://critter.blog/2023/05/18/whiten-your-teeth/)
 - [What is management? What is leadership?](https://critter.blog/2023/05/17/what-is-management-what-is-leadership/)
 - [Writing tasty tasks](https://critter.blog/2023/05/16/writing-tasty-tasks/)
 - [i.e. and e.g. are not interchangeable!](https://critter.blog/2023/05/15/i-e-and-e-g-are-not-interchangeable/)
-- [50 word personal README, version 2.0](https://critter.blog/2023/05/12/50-word-personal-readme-version-2-0/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
