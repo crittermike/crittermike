@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Start sprints in the middle of the week](https://critter.blog/2023/05/29/start-sprints-in-the-middle-of-the-week/)
 - [BLOCK SLACK](https://critter.blog/2023/05/26/block-slack/)
 - [The &lpar;remote&rpar; walking 1-1](https://critter.blog/2023/05/25/the-remote-walking-1-1/)
 - [The two minute rule for GTD](https://critter.blog/2023/05/24/the-two-minute-rule-for-gtd/)
 - [Be a person who does fun things](https://critter.blog/2023/05/23/be-a-person-who-does-fun-things/)
-- [The tombstone exercise. Or not?](https://critter.blog/2023/05/22/the-tombstone-exercise-or-not/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
