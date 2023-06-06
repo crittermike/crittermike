@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use push-to-talk!](https://critter.blog/2023/06/06/use-push-to-talk/)
 - [Lower your expectations of people outside your circle](https://critter.blog/2023/06/05/lower-your-expectations-of-people-outside-your-circle/)
 - [Run towards something, not away from something…?](https://critter.blog/2023/06/01/run-towards-something-not-away-from-something/)
 - [Unmute to laugh!](https://critter.blog/2023/06/01/unmute-to-laugh/)
 - [What’s the smallest step forward that you could take?](https://critter.blog/2023/05/31/whats-the-smallest-step-forward-that-you-could-take/)
-- [How to deal with low performers on a mob programming team?](https://critter.blog/2023/05/30/how-to-deal-with-low-performers-on-a-mob-programming-team/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
