@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Are toddlers polluting your analytics?](https://critter.blog/2023/06/09/are-toddlers-polluting-your-analytics/)
 - [Your pain is your purpose](https://critter.blog/2023/06/08/your-pain-is-your-purpose/)
 - [Your labels expire](https://critter.blog/2023/06/07/your-labels-expire/)
 - [Use push-to-talk!](https://critter.blog/2023/06/06/use-push-to-talk/)
 - [Lower your expectations of people outside your circle](https://critter.blog/2023/06/05/lower-your-expectations-of-people-outside-your-circle/)
-- [Run towards something, not away from something…?](https://critter.blog/2023/06/01/run-towards-something-not-away-from-something/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
