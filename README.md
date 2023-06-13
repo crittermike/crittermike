@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 30-day minimalism game](https://critter.blog/2023/06/13/the-30-day-minimalism-game/)
 - [Cute lil time boxed buffers](https://critter.blog/2023/06/12/cute-lil-time-boxed-buffers/)
 - [Are toddlers polluting your analytics?](https://critter.blog/2023/06/09/are-toddlers-polluting-your-analytics/)
 - [Your pain is your purpose](https://critter.blog/2023/06/08/your-pain-is-your-purpose/)
 - [Your labels expire](https://critter.blog/2023/06/07/your-labels-expire/)
-- [Use push-to-talk!](https://critter.blog/2023/06/06/use-push-to-talk/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
