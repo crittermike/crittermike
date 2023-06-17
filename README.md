@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Almost nothing is objectively true](https://critter.blog/2023/06/16/almost-nothing-is-objectively-true/)
 - [Debate to learn, learn to debate](https://critter.blog/2023/06/15/debate-to-learn-learn-to-debate/)
 - [It’s my birthday](https://critter.blog/2023/06/14/its-my-birthday/)
 - [The 30-day minimalism game](https://critter.blog/2023/06/13/the-30-day-minimalism-game/)
 - [Cute lil time boxed buffers](https://critter.blog/2023/06/12/cute-lil-time-boxed-buffers/)
-- [Are toddlers polluting your analytics?](https://critter.blog/2023/06/09/are-toddlers-polluting-your-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
