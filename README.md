@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make them ask twice](https://critter.blog/2023/06/20/make-them-ask-twice/)
 - [Reheat pizza in the air fryer](https://critter.blog/2023/06/19/reheat-pizza-in-the-air-fryer/)
 - [Almost nothing is objectively true](https://critter.blog/2023/06/16/almost-nothing-is-objectively-true/)
 - [Debate to learn, learn to debate](https://critter.blog/2023/06/15/debate-to-learn-learn-to-debate/)
 - [It’s my birthday](https://critter.blog/2023/06/14/its-my-birthday/)
-- [The 30-day minimalism game](https://critter.blog/2023/06/13/the-30-day-minimalism-game/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
