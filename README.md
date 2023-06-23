@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The real sizes of countries](https://critter.blog/2023/06/23/the-real-sizes-of-countries/)
 - [There are no normal weeks](https://critter.blog/2023/06/22/there-are-no-normal-weeks/)
 - [The four laws of behavior change](https://critter.blog/2023/06/21/the-four-laws-of-behavior-change/)
 - [Make them ask twice](https://critter.blog/2023/06/20/make-them-ask-twice/)
 - [Reheat pizza in the air fryer](https://critter.blog/2023/06/19/reheat-pizza-in-the-air-fryer/)
-- [Almost nothing is objectively true](https://critter.blog/2023/06/16/almost-nothing-is-objectively-true/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
