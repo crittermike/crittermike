@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My ideal work week](https://critter.blog/2023/06/27/my-ideal-work-week/)
 - [A life of meh](https://critter.blog/2023/06/26/a-life-of-meh/)
 - [The real sizes of countries](https://critter.blog/2023/06/23/the-real-sizes-of-countries/)
 - [There are no normal weeks](https://critter.blog/2023/06/22/there-are-no-normal-weeks/)
 - [The four laws of behavior change](https://critter.blog/2023/06/21/the-four-laws-of-behavior-change/)
-- [Make them ask twice](https://critter.blog/2023/06/20/make-them-ask-twice/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
