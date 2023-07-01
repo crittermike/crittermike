@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five things I like right now: July, 2023](https://critter.blog/2023/06/30/five-things-i-like-right-now-july-2023/)
 - [Emoji reactions are powerful](https://critter.blog/2023/06/29/emoji-reactions-are-powerful/)
 - [Hackman’s authority matrix and the self-managed team](https://critter.blog/2023/06/28/hackmans-authority-matrix-and-the-self-managed-team/)
 - [My ideal work week](https://critter.blog/2023/06/27/my-ideal-work-week/)
 - [A life of meh](https://critter.blog/2023/06/26/a-life-of-meh/)
-- [The real sizes of countries](https://critter.blog/2023/06/23/the-real-sizes-of-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
