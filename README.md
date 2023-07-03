@@ -11,7 +11,7 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Light clothes won’t keep you cooler](https://critter.blog/2023/07/03/light-clothes-wont-keep-you-cooler/)
+- [White clothes won’t keep you cooler](https://critter.blog/2023/07/03/light-clothes-wont-keep-you-cooler/)
 - [Five things I like right now: July, 2023](https://critter.blog/2023/06/30/five-things-i-like-right-now-july-2023/)
 - [Emoji reactions are powerful](https://critter.blog/2023/06/29/emoji-reactions-are-powerful/)
 - [Hackman’s authority matrix and the self-managed team](https://critter.blog/2023/06/28/hackmans-authority-matrix-and-the-self-managed-team/)
