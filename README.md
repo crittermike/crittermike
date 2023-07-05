@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to take negative feedback well](https://critter.blog/2023/07/05/how-to-take-negative-feedback-well/)
 - [Practice coaching on your kids](https://critter.blog/2023/07/04/practice-coaching-on-your-kids/)
 - [White clothes won’t keep you cooler](https://critter.blog/2023/07/03/light-clothes-wont-keep-you-cooler/)
 - [Five things I like right now: July, 2023](https://critter.blog/2023/06/30/five-things-i-like-right-now-july-2023/)
 - [Emoji reactions are powerful](https://critter.blog/2023/06/29/emoji-reactions-are-powerful/)
-- [Hackman’s authority matrix and the self-managed team](https://critter.blog/2023/06/28/hackmans-authority-matrix-and-the-self-managed-team/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
