@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Half doing something is an expensive way of not doing it](https://critter.blog/2023/07/11/half-doing-something-is-an-expensive-way-of-not-doing-it/)
 - [Reliability vs. other ilities](https://critter.blog/2023/07/10/reliability-vs-other-ilities/)
 - [Periodically start over](https://critter.blog/2023/07/07/periodically-start-over/)
 - [Nothing trumps retention](https://critter.blog/2023/07/06/nothing-trumps-retention/)
 - [How to take negative feedback well](https://critter.blog/2023/07/05/how-to-take-negative-feedback-well/)
-- [Practice coaching on your kids](https://critter.blog/2023/07/04/practice-coaching-on-your-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
