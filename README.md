@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nobody wants to follow a pessimist](https://critter.blog/2023/07/21/nobody-wants-to-follow-a-pessimist/)
 - [You’re born, you have a set of sensory experiences, you die](https://critter.blog/2023/07/19/youre-born-you-have-a-set-of-sensory-experiences-you-die/)
 - [The Decision Tree](https://critter.blog/2023/07/18/the-decision-tree/)
 - [Read to fill your mind, write to clear your mind](https://critter.blog/2023/07/17/read-to-fill-your-mind-write-to-clear-your-mind/)
 - [Output = time * input * leverage](https://critter.blog/2023/07/17/output-time-input-leverage/)
-- [You don’t HAVE to spend your work days hopping from meeting to meeting](https://critter.blog/2023/07/14/you-dont-have-to-spend-your-work-days-hopping-from-meeting-to-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
