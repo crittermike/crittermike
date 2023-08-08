@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When a 1-1 conversation with your direct report is drying up](https://critter.blog/2023/08/08/when-a-1-1-conversation-with-your-direct-report-is-drying-up/)
 - [Sham surgery](https://critter.blog/2023/08/07/sham-surgery/)
 - [Meeting = Greeting + Reading + Leading](https://critter.blog/2023/08/04/meeting-greeting-reading-leading/)
 - [800 grams of plants every day](https://critter.blog/2023/08/03/800-grams-of-plants-every-day/)
 - [Goals are like lighthouses](https://critter.blog/2023/08/02/goals-are-like-lighthouses/)
-- [Servant leader, not order taker](https://critter.blog/2023/08/01/servant-leader-not-order-taker/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
