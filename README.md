@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What writing looks like without the words](https://critter.blog/2023/08/14/what-writing-looks-like-without-the-words/)
 - [Less-than-one-minute habits](https://critter.blog/2023/08/11/less-than-one-minute-habits/)
 - [Don’t kick off an async discussion without a clear request and a deadline](https://critter.blog/2023/08/10/dont-kick-off-an-async-discussion-without-a-clear-request-and-a-deadline/)
 - [Psychological safety vs. trust](https://critter.blog/2023/08/09/psychological-safety-vs-trust/)
 - [When a 1-1 conversation with your direct report is drying up](https://critter.blog/2023/08/08/when-a-1-1-conversation-with-your-direct-report-is-drying-up/)
-- [Sham surgery](https://critter.blog/2023/08/07/sham-surgery/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
