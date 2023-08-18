@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Happiness is a direction, not a place.”](https://critter.blog/2023/08/17/happiness-is-a-direction-not-a-place/)
 - [Nutrition advice doesn’t change that much](https://critter.blog/2023/08/16/nutrition-advice-doesnt-change-that-much/)
 - [Nonfiction books don’t need a hero’s journey](https://critter.blog/2023/08/15/non-fiction-books-dont-need-a-heros-journey/)
 - [What writing looks like without the words](https://critter.blog/2023/08/14/what-writing-looks-like-without-the-words/)
 - [Less-than-one-minute habits](https://critter.blog/2023/08/11/less-than-one-minute-habits/)
-- [Don’t kick off an async discussion without a clear request and a deadline](https://critter.blog/2023/08/10/dont-kick-off-an-async-discussion-without-a-clear-request-and-a-deadline/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
