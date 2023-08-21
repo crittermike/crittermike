@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An excuse for success](https://critter.blog/2023/08/21/an-excuse-for-success/)
 - [Surround yourself](https://critter.blog/2023/08/18/surround-yourself/)
 - [“Happiness is a direction, not a place.”](https://critter.blog/2023/08/17/happiness-is-a-direction-not-a-place/)
 - [Nutrition advice doesn’t change that much](https://critter.blog/2023/08/16/nutrition-advice-doesnt-change-that-much/)
 - [Nonfiction books don’t need a hero’s journey](https://critter.blog/2023/08/15/non-fiction-books-dont-need-a-heros-journey/)
-- [What writing looks like without the words](https://critter.blog/2023/08/14/what-writing-looks-like-without-the-words/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
