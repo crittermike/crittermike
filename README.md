@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Would you still do that thing if you could never tell anyone about it?](https://critter.blog/2023/08/28/would-you-still-do-that-thing-if-you-could-never-tell-anyone-about-it/)
 - [Fewer meetings means you have to show more impact](https://critter.blog/2023/08/25/fewer-meetings-means-you-have-to-show-more-impact/)
 - [What would you do if you knew you WOULD fail?](https://critter.blog/2023/08/24/what-would-you-do-if-you-knew-you-would-fail/)
 - [Management: “The trough of zero dopamine”](https://critter.blog/2023/08/23/management-the-trough-of-zero-dopamine/)
 - [How to buy bread](https://critter.blog/2023/08/22/how-to-buy-bread/)
-- [An excuse for success](https://critter.blog/2023/08/21/an-excuse-for-success/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
