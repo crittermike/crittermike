@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Convince yourself first](https://critter.blog/2023/09/05/convince-yourself-first/)
 - [How you doing?](https://critter.blog/2023/09/04/how-you-doing/)
 - [How to fall asleep](https://critter.blog/2023/09/01/how-to-fall-asleep/)
 - [What you resist persists](https://critter.blog/2023/08/31/what-you-resist-persists/)
 - [You will arrive at the sea anyway](https://critter.blog/2023/08/30/you-will-arrive-at-the-sea-anyway/)
-- [On when to flag a performance issue](https://critter.blog/2023/08/29/on-when-to-flag-a-performance-issue/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
