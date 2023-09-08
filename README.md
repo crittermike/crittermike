@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The hidden evils of high WIP](https://critter.blog/2023/09/08/the-hidden-evils-of-high-wip/)
 - [The voice memo journal](https://critter.blog/2023/09/08/the-voice-memo-journal/)
 - [The modern food pyramid](https://critter.blog/2023/09/06/the-modern-food-pyramid/)
 - [Convince yourself first](https://critter.blog/2023/09/05/convince-yourself-first/)
 - [How you doing?](https://critter.blog/2023/09/04/how-you-doing/)
-- [How to fall asleep](https://critter.blog/2023/09/01/how-to-fall-asleep/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
