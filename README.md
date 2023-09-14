@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The most important skill is controlling your attention](https://critter.blog/2023/09/13/the-most-important-skill-is-controlling-your-attention/)
 - [When someone leads a meeting, give them feedback immediately after](https://critter.blog/2023/09/12/when-someone-leads-a-meeting-give-them-feedback-immediately-after/)
 - [“I work remotely” doesn’t have to mean “I work from home”](https://critter.blog/2023/09/11/i-work-remotely-doesnt-have-to-mean-i-work-from-home/)
 - [The hidden evils of high WIP](https://critter.blog/2023/09/08/the-hidden-evils-of-high-wip/)
 - [The voice memo journal](https://critter.blog/2023/09/08/the-voice-memo-journal/)
-- [The modern food pyramid](https://critter.blog/2023/09/06/the-modern-food-pyramid/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
