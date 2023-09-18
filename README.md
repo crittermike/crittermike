@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Situational Leadership II &lpar;SLII&rpar; model](https://critter.blog/2023/09/18/the-situational-leadership-ii-slii-model/)
 - [“I decide to just not go there”](https://critter.blog/2023/09/15/i-decide-to-just-not-go-there/)
 - [Talk about milestones, not epics](https://critter.blog/2023/09/14/talk-about-milestones-not-epics/)
 - [The most important skill is controlling your attention](https://critter.blog/2023/09/13/the-most-important-skill-is-controlling-your-attention/)
 - [When someone leads a meeting, give them feedback immediately after](https://critter.blog/2023/09/12/when-someone-leads-a-meeting-give-them-feedback-immediately-after/)
-- [“I work remotely” doesn’t have to mean “I work from home”](https://critter.blog/2023/09/11/i-work-remotely-doesnt-have-to-mean-i-work-from-home/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
