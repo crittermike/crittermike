@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Agile” doesn’t mean “Scrum”](https://critter.blog/2023/10/03/agile-doesnt-mean-scrum/)
 - [Tie your shoes better](https://critter.blog/2023/10/02/tie-your-shoes-better/)
 - [Onboarding don’t-worry-abouts](https://critter.blog/2023/09/29/onboarding-dont-worry-abouts/)
 - [If you could repeat a single day](https://critter.blog/2023/09/28/if-you-could-repeat-a-single-day/)
 - [Tales of boys and their fathers](https://critter.blog/2023/09/27/tales-of-boys-and-their-fathers/)
-- [My note taking system](https://critter.blog/2023/09/26/my-note-taking-system/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
