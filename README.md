@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Invest in yourself, not in your job.”](https://critter.blog/2023/10/05/invest-in-yourself-not-in-your-job/)
 - [Write in the style you’d like to read](https://critter.blog/2023/10/04/write-in-the-style-youd-like-to-read/)
 - [“Agile” doesn’t mean “Scrum”](https://critter.blog/2023/10/03/agile-doesnt-mean-scrum/)
 - [Tie your shoes better](https://critter.blog/2023/10/02/tie-your-shoes-better/)
 - [Onboarding don’t-worry-abouts](https://critter.blog/2023/09/29/onboarding-dont-worry-abouts/)
-- [If you could repeat a single day](https://critter.blog/2023/09/28/if-you-could-repeat-a-single-day/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
