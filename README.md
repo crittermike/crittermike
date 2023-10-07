@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [On good micromanagement](https://critter.blog/2023/10/06/on-good-micromanagement/)
 - [“Invest in yourself, not in your job.”](https://critter.blog/2023/10/05/invest-in-yourself-not-in-your-job/)
 - [Write in the style you’d like to read](https://critter.blog/2023/10/04/write-in-the-style-youd-like-to-read/)
 - [“Agile” doesn’t mean “Scrum”](https://critter.blog/2023/10/03/agile-doesnt-mean-scrum/)
 - [Tie your shoes better](https://critter.blog/2023/10/02/tie-your-shoes-better/)
-- [Onboarding don’t-worry-abouts](https://critter.blog/2023/09/29/onboarding-dont-worry-abouts/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
