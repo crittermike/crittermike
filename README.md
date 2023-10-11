@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It’s OK to not want feedback right now](https://critter.blog/2023/10/10/its-ok-to-not-want-feedback-right-now/)
 - [Five things I like right now: October, 2023](https://critter.blog/2023/10/09/five-things-i-like-right-now-october-2023/)
 - [On good micromanagement](https://critter.blog/2023/10/06/on-good-micromanagement/)
 - [“Invest in yourself, not in your job.”](https://critter.blog/2023/10/05/invest-in-yourself-not-in-your-job/)
 - [Write in the style you’d like to read](https://critter.blog/2023/10/04/write-in-the-style-youd-like-to-read/)
-- [“Agile” doesn’t mean “Scrum”](https://critter.blog/2023/10/03/agile-doesnt-mean-scrum/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
