@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Things that aren’t doing the thing](https://critter.blog/2023/10/13/things-that-arent-doing-the-thing/)
 - [Your response to feedback should encourage more feedback](https://critter.blog/2023/10/12/your-response-to-feedback-should-encourage-more-feedback/)
 - [“The smallest deed is better than the greatest intention”](https://critter.blog/2023/10/11/the-smallest-deed-is-better-than-the-greatest-intention/)
 - [It’s OK to not want feedback right now](https://critter.blog/2023/10/10/its-ok-to-not-want-feedback-right-now/)
 - [Five things I like right now: October, 2023](https://critter.blog/2023/10/09/five-things-i-like-right-now-october-2023/)
-- [On good micromanagement](https://critter.blog/2023/10/06/on-good-micromanagement/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
