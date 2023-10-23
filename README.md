@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [No introductions, no conclusions](https://critter.blog/2023/10/23/no-introductions-no-conclusions/)
 - [Precordial catch syndrome](https://critter.blog/2023/10/17/precordial-catch-syndrome/)
 - [Special time](https://critter.blog/2023/10/16/special-time/)
 - [Things that aren’t doing the thing](https://critter.blog/2023/10/13/things-that-arent-doing-the-thing/)
 - [Your response to feedback should encourage more feedback](https://critter.blog/2023/10/12/your-response-to-feedback-should-encourage-more-feedback/)
-- [“The smallest deed is better than the greatest intention”](https://critter.blog/2023/10/11/the-smallest-deed-is-better-than-the-greatest-intention/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
