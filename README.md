@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hand gestures in macOS Sonoma](https://critter.blog/2023/10/25/hand-gestures-in-macos-sonoma/)
 - [Somewhere to belong](https://critter.blog/2023/10/24/somewhere-to-belong/)
 - [No introductions, no conclusions](https://critter.blog/2023/10/23/no-introductions-no-conclusions/)
 - [Precordial catch syndrome](https://critter.blog/2023/10/17/precordial-catch-syndrome/)
 - [Special time](https://critter.blog/2023/10/16/special-time/)
-- [Things that aren’t doing the thing](https://critter.blog/2023/10/13/things-that-arent-doing-the-thing/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
