@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern landfill technology](https://critter.blog/2023/10/27/modern-landfill-technology/)
 - [Joy’s law](https://critter.blog/2023/10/26/joys-law/)
 - [Hand gestures in macOS Sonoma](https://critter.blog/2023/10/25/hand-gestures-in-macos-sonoma/)
 - [Somewhere to belong](https://critter.blog/2023/10/24/somewhere-to-belong/)
 - [No introductions, no conclusions](https://critter.blog/2023/10/23/no-introductions-no-conclusions/)
-- [Precordial catch syndrome](https://critter.blog/2023/10/17/precordial-catch-syndrome/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
