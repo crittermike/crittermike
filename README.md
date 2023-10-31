@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 12 Week Year: 2023 round 1 wrap up](https://critter.blog/2023/10/30/the-12-week-year-2023-round-1-wrap-up/)
 - [Modern landfill technology](https://critter.blog/2023/10/27/modern-landfill-technology/)
 - [Joy’s law](https://critter.blog/2023/10/26/joys-law/)
 - [Hand gestures in macOS Sonoma](https://critter.blog/2023/10/25/hand-gestures-in-macos-sonoma/)
 - [Somewhere to belong](https://critter.blog/2023/10/24/somewhere-to-belong/)
-- [No introductions, no conclusions](https://critter.blog/2023/10/23/no-introductions-no-conclusions/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
