@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Engineering estimates and weather forecasts](https://critter.blog/2023/11/01/engineering-estimates-and-weather-forecasts/)
 - [If a year had 13 months](https://critter.blog/2023/10/31/if-a-year-had-13-months/)
 - [The 12 Week Year: 2023 round 1 wrap up](https://critter.blog/2023/10/30/the-12-week-year-2023-round-1-wrap-up/)
 - [Modern landfill technology](https://critter.blog/2023/10/27/modern-landfill-technology/)
 - [Joy’s law](https://critter.blog/2023/10/26/joys-law/)
-- [Hand gestures in macOS Sonoma](https://critter.blog/2023/10/25/hand-gestures-in-macos-sonoma/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
