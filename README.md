@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Download Google Slides speaker notes](https://critter.blog/2023/11/07/download-google-slides-speaker-notes/)
 - [A job is just a phase in someone’s life](https://critter.blog/2023/11/06/a-job-is-just-a-phase-in-someones-life/)
 - [Put kids’ wristbands on their shoes](https://critter.blog/2023/11/04/put-kids-wristbands-on-their-shoes/)
 - [You don’t know what you know until you pair](https://critter.blog/2023/11/02/you-dont-know-what-you-know-until-you-pair/)
 - [Engineering estimates and weather forecasts](https://critter.blog/2023/11/01/engineering-estimates-and-weather-forecasts/)
-- [If a year had 13 months](https://critter.blog/2023/10/31/if-a-year-had-13-months/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
