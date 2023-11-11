@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Some prompts for positive feedback](https://critter.blog/2023/11/10/some-prompts-for-positive-feedback/)
 - [The rage run](https://critter.blog/2023/11/09/the-rage-run/)
 - [What did you accomplish this week?](https://critter.blog/2023/11/08/what-did-you-accomplish-this-week/)
 - [Download Google Slides speaker notes](https://critter.blog/2023/11/07/download-google-slides-speaker-notes/)
 - [A job is just a phase in someone’s life](https://critter.blog/2023/11/06/a-job-is-just-a-phase-in-someones-life/)
-- [Put kids’ wristbands on their shoes](https://critter.blog/2023/11/04/put-kids-wristbands-on-their-shoes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
