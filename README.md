@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [No thanks, I don’t eat sweets](https://critter.blog/2023/11/15/no-thanks-i-dont-eat-sweets/)
 - [In defense of not tracking sleep](https://critter.blog/2023/11/13/in-defense-of-not-tracking-sleep/)
 - [Some prompts for positive feedback](https://critter.blog/2023/11/10/some-prompts-for-positive-feedback/)
 - [The rage run](https://critter.blog/2023/11/09/the-rage-run/)
 - [What did you accomplish this week?](https://critter.blog/2023/11/08/what-did-you-accomplish-this-week/)
-- [Download Google Slides speaker notes](https://critter.blog/2023/11/07/download-google-slides-speaker-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
