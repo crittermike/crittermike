@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My DISC results](https://critter.blog/2023/11/20/my-disc-results/)
 - [Focus on what’s keeping your manager up at night](https://critter.blog/2023/11/17/focus-on-whats-keeping-your-manager-up-at-night/)
 - [No thanks, I don’t eat sweets](https://critter.blog/2023/11/15/no-thanks-i-dont-eat-sweets/)
 - [In defense of not tracking sleep](https://critter.blog/2023/11/13/in-defense-of-not-tracking-sleep/)
 - [Some prompts for positive feedback](https://critter.blog/2023/11/10/some-prompts-for-positive-feedback/)
-- [The rage run](https://critter.blog/2023/11/09/the-rage-run/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
