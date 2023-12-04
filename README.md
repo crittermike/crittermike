@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The checklist diet](https://critter.blog/2023/12/04/the-checklist-diet/)
 - [Senior+ employees aren’t allowed to miss things](https://critter.blog/2023/12/01/senior-employees-arent-allowed-to-miss-things/)
 - [Don’t lie on peer feedback just because their manager sees it](https://critter.blog/2023/11/30/dont-lie-on-peer-feedback-just-because-their-manager-sees-it/)
 - [The “maybe box” for decluttering](https://critter.blog/2023/11/28/the-maybe-box-for-decluttering/)
 - [Death to “not un-“](https://critter.blog/2023/11/21/death-to-not-un/)
-- [My DISC results](https://critter.blog/2023/11/20/my-disc-results/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
