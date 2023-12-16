@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What DO you want](https://critter.blog/2023/12/15/what-do-you-want/)
 - [Back up your performance reviews](https://critter.blog/2023/12/12/back-up-your-performance-reviews/)
 - [Torrenting as analogy for single piece flow](https://critter.blog/2023/12/07/torrenting-as-analogy-for-single-piece-flow/)
 - [The checklist diet](https://critter.blog/2023/12/04/the-checklist-diet/)
 - [Senior+ employees aren’t allowed to miss things](https://critter.blog/2023/12/01/senior-employees-arent-allowed-to-miss-things/)
-- [Don’t lie on peer feedback just because their manager sees it](https://critter.blog/2023/11/30/dont-lie-on-peer-feedback-just-because-their-manager-sees-it/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
