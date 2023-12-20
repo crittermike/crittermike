@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Handing off control of my screen time](https://critter.blog/2023/12/20/handing-off-control-of-my-screen-time/)
 - [Snakes aren’t poisonous](https://critter.blog/2023/12/18/snakes-arent-poisonous/)
 - [What DO you want](https://critter.blog/2023/12/15/what-do-you-want/)
 - [Back up your performance reviews](https://critter.blog/2023/12/12/back-up-your-performance-reviews/)
 - [Torrenting as analogy for single piece flow](https://critter.blog/2023/12/07/torrenting-as-analogy-for-single-piece-flow/)
-- [The checklist diet](https://critter.blog/2023/12/04/the-checklist-diet/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
