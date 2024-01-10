@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Responsibilities of EM vs. PM vs. EL](https://critter.blog/2024/01/10/responsibilities-of-em-vs-pm-vs-el/)
 - [Unfudging our feedback &lpar;talk transcript&rpar;](https://critter.blog/2024/01/09/unfudging-our-feedback-talk-transcript/)
 - [How to turn off inline predictive text on iPhones](https://critter.blog/2024/01/08/how-to-turn-off-inline-predictive-text-on-iphones/)
 - [12 week goals: 2024 round 1](https://critter.blog/2024/01/05/12-week-goals-2024-round-1/)
 - [2023 in review](https://critter.blog/2024/01/04/2023-in-review/)
-- [2023 annual review, kids edition](https://critter.blog/2024/01/03/2023-annual-review-kids-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
