@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Less annoying ChatGPT with custom instructions](https://critter.blog/2024/01/17/less-annoying-chatgpt-with-custom-instructions/)
 - [Posts I never wrote](https://critter.blog/2024/01/16/posts-i-never-wrote/)
 - [What’s your play personality?](https://critter.blog/2024/01/12/whats-your-play-personality/)
 - [Feedback 101 &lpar;chapter rough draft&rpar;](https://critter.blog/2024/01/11/feedback-101-chapter-rough-draft/)
 - [Responsibilities of EM vs. PM vs. EL](https://critter.blog/2024/01/10/responsibilities-of-em-vs-pm-vs-el/)
-- [Unfudging our feedback &lpar;talk transcript&rpar;](https://critter.blog/2024/01/09/unfudging-our-feedback-talk-transcript/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
