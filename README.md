@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cream cheese parenting](https://critter.blog/2024/01/24/cream-cheese-parenting/)
 - [Timebox your requests](https://critter.blog/2024/01/22/timebox-your-requests/)
 - [“Posts I never wrote” tallied votes](https://critter.blog/2024/01/19/posts-i-never-wrote-tallied-votes/)
 - [Resumes are fake](https://critter.blog/2024/01/18/resumes-are-fake/)
 - [Less annoying ChatGPT with custom instructions](https://critter.blog/2024/01/17/less-annoying-chatgpt-with-custom-instructions/)
-- [Posts I never wrote](https://critter.blog/2024/01/16/posts-i-never-wrote/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
