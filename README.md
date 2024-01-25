@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The magic question to ask before writing your self review](https://critter.blog/2024/01/25/the-magic-question-to-ask-before-writing-your-self-review/)
 - [Cream cheese parenting](https://critter.blog/2024/01/24/cream-cheese-parenting/)
 - [Timebox your requests](https://critter.blog/2024/01/22/timebox-your-requests/)
 - [“Posts I never wrote” tallied votes](https://critter.blog/2024/01/19/posts-i-never-wrote-tallied-votes/)
 - [Resumes are fake](https://critter.blog/2024/01/18/resumes-are-fake/)
-- [Less annoying ChatGPT with custom instructions](https://critter.blog/2024/01/17/less-annoying-chatgpt-with-custom-instructions/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
