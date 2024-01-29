@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A definition of management](https://critter.blog/2024/01/29/a-definition-of-management/)
 - [Salary negotiation in 30 seconds](https://critter.blog/2024/01/26/salary-negotiation-in-30-seconds/)
 - [The magic question to ask before writing your self review](https://critter.blog/2024/01/25/the-magic-question-to-ask-before-writing-your-self-review/)
 - [Cream cheese parenting](https://critter.blog/2024/01/24/cream-cheese-parenting/)
 - [Timebox your requests](https://critter.blog/2024/01/22/timebox-your-requests/)
-- [“Posts I never wrote” tallied votes](https://critter.blog/2024/01/19/posts-i-never-wrote-tallied-votes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
