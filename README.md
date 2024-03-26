@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I rate books](https://critter.blog/2024/03/26/how-i-rate-books/)
 - [Travel likes and dislikes](https://critter.blog/2024/03/18/travel-likes-and-dislikes/)
 - [Who vs. whom](https://critter.blog/2024/02/16/who-vs-whom/)
 - [SCARF model for finding triggers](https://critter.blog/2024/02/15/scarf-model-for-finding-triggers/)
 - [“Change your thoughts, change your life” is BS](https://critter.blog/2024/01/31/change-your-thoughts-change-your-life-is-bs/)
-- [A definition of management](https://critter.blog/2024/01/29/a-definition-of-management/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
