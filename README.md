@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 week goals: 2024 round 1 wrap up](https://critter.blog/2024/04/21/the-12-week-year-2024-round-1-wrap-up/)
 - [Brandolini’s law](https://critter.blog/2024/04/15/brandolinis-law/)
 - [How I rate books](https://critter.blog/2024/03/26/how-i-rate-books/)
 - [Travel likes and dislikes](https://critter.blog/2024/03/18/travel-likes-and-dislikes/)
 - [Who vs. whom](https://critter.blog/2024/02/16/who-vs-whom/)
-- [SCARF model for finding triggers](https://critter.blog/2024/02/15/scarf-model-for-finding-triggers/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
