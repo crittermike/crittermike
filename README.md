@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Calculating technical debt &lpar;from “Executive Engineering”&rpar;](https://critter.blog/2024/07/26/calculating-technical-debt-from-executive-engineering/)
 - [A template for writing a team charter](https://critter.blog/2024/07/24/a-template-for-writing-a-team-charter/)
 - [Three year goals: round 1 wrap up](https://critter.blog/2024/04/23/three-year-goals-round-1-wrap-up/)
 - [12 week goals: 2024 round 1 wrap up](https://critter.blog/2024/04/21/the-12-week-year-2024-round-1-wrap-up/)
 - [Brandolini’s law](https://critter.blog/2024/04/15/brandolinis-law/)
-- [How I rate books](https://critter.blog/2024/03/26/how-i-rate-books/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
