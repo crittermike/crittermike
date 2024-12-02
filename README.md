@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My barely useful calorie tracker](https://critter.blog/2024/12/02/my-barely-useful-calorie-tracker/)
 - [Performance reviews are for two things, and neither of them is “feedback”](https://critter.blog/2024/10/23/performance-reviews-are-for-two-things-and-neither-of-them-is-feedback/)
 - [A book quote on finding purpose](https://critter.blog/2024/09/03/a-book-quote-on-finding-purpose/)
 - [Calculating technical debt &lpar;from “Executive Engineering”&rpar;](https://critter.blog/2024/07/26/calculating-technical-debt-from-executive-engineering/)
 - [A template for writing a team charter](https://critter.blog/2024/07/24/a-template-for-writing-a-team-charter/)
-- [Three year goals: round 1 wrap up](https://critter.blog/2024/04/23/three-year-goals-round-1-wrap-up/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
