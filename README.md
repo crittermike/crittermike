@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Don’t eat the SCRAPs: a simple rule for clean eating](https://critter.blog/2025/01/03/dont-eat-the-scraps-a-simple-rule-for-clean-eating/)
 - [The fig tree](https://critter.blog/2025/01/02/the-fig-tree/)
 - [My barely useful calorie tracker](https://critter.blog/2024/12/02/my-barely-useful-calorie-tracker/)
 - [Performance reviews are for two things, and neither of them is “feedback”](https://critter.blog/2024/10/23/performance-reviews-are-for-two-things-and-neither-of-them-is-feedback/)
 - [A book quote on finding purpose](https://critter.blog/2024/09/03/a-book-quote-on-finding-purpose/)
-- [Calculating technical debt &lpar;from “Executive Engineering”&rpar;](https://critter.blog/2024/07/26/calculating-technical-debt-from-executive-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
