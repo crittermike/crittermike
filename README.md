@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The art of pre-meeting chatter](https://critter.blog/2025/03/21/the-art-of-pre-meeting-chatter/)
 - [My core values, round three](https://critter.blog/2025/03/20/my-core-values-round-three/)
 - [Do you talk to think or do you think to talk?](https://critter.blog/2025/02/24/do-you-talk-to-think-or-do-you-think-to-talk/)
 - [“Let go of the idea that gentle, relaxed people can’t be superachievers”](https://critter.blog/2025/02/03/let-go-of-the-idea-that-gentle-relaxed-people-cant-be-superachievers/)
 - [Don’t eat the SCRAPs: a simple rule for clean eating](https://critter.blog/2025/01/03/dont-eat-the-scraps-a-simple-rule-for-clean-eating/)
-- [The fig tree](https://critter.blog/2025/01/02/the-fig-tree/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
