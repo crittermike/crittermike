@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The unreasonable effectiveness of lightning demos](https://critter.blog/2025/06/06/the-unreasonable-effectiveness-of-lightning-demos/)
 - [Kanbanish, a side project](https://critter.blog/2025/04/28/kanbanish-a-side-project/)
 - [Beware any dopamine hit that doesn’t require effort](https://critter.blog/2025/03/24/beware-any-dopamine-hit-that-doesnt-require-effort/)
 - [The art of pre-meeting chatter](https://critter.blog/2025/03/21/the-art-of-pre-meeting-chatter/)
 - [My core values, round three](https://critter.blog/2025/03/20/my-core-values-round-three/)
-- [Do you talk to think or do you think to talk?](https://critter.blog/2025/02/24/do-you-talk-to-think-or-do-you-think-to-talk/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
