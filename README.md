@@ -11,11 +11,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What makes up an organization’s culture?](https://critter.blog/2025/10/31/what-makes-up-an-organizations-culture/)
 - [My favorite Panera interaction](https://critter.blog/2025/08/22/my-favorite-panera-interaction/)
 - [The unreasonable effectiveness of lightning demos](https://critter.blog/2025/06/06/the-unreasonable-effectiveness-of-lightning-demos/)
 - [Kanbanish, a side project](https://critter.blog/2025/04/28/kanbanish-a-side-project/)
 - [Beware any dopamine hit that doesn’t require effort](https://critter.blog/2025/03/24/beware-any-dopamine-hit-that-doesnt-require-effort/)
-- [The art of pre-meeting chatter](https://critter.blog/2025/03/21/the-art-of-pre-meeting-chatter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
