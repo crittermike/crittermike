@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mike
 ### (Some people call me Critter)
 
-:octocat: I’m working on Copilot here at GitHub.
+:octocat: I’m an Engineering Manager here at GitHub.
 
 📝 I write daily blog posts at [critter.blog](https://critter.blog).
 
